@@ -7,14 +7,16 @@ body {
   margin: 0;
   width: 100vw;
   height: 100vh;
-
-  background: white;
   user-select: none;
   -webkit-app-region: drag;
+  background-image: url("assets/outer-frame-bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .app {
-  padding: 16px;
+
 }
 
 button,
