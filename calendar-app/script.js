@@ -2,7 +2,7 @@ function updateCalendar() {
     const now = new Date(); 
     const date = now.getDate(); 
 
-    const dayNames = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
+    const dayNames = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"]
     const day = dayNames[now.getDay()];
 
     const monthNames = ["january", "february", "march", "april", "may", "june", "july", 
