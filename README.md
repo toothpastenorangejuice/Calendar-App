@@ -2,6 +2,8 @@
 - A calendar application  built with HTML, CSS, JavaScript, and ElectronJS
 - This project i learnt from Nashallery's youtube video titled How to code your first cute application from scratch (beginner friendly & aesthetic :3).
 
+![Image Alt](https://github.com/toothpastenorangejuice/Calendar-App/blob/9e9fb667218f732e903a8f66638840a421789e47/CalendarApp.png)
+
 ## My Contributions
 - **Custom styling** -  A bit of redesign with different colours and spacing
 - **Additional features** - A day function to display the day of the week. 
